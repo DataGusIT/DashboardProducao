@@ -49,6 +49,10 @@ Este dashboard foi desenvolvido no **Power BI** para oferecer insights essenciai
 ## 🌟 Sobre o Projeto
 O objetivo deste projeto é fornecer um monitoramento eficiente da produção, facilitando a tomada de decisões e aprimorando a qualidade e produtividade do processo industrial. Caso tenha sugestões ou dúvidas, sinta-se à vontade para contribuir! 😃📊
 
-🚀 **Desenvolvido por:** [Seu Nome](https://www.linkedin.com/in/seu-perfil)  
+🚀 **Desenvolvido por:** [Gustavo](https://www.linkedin.com/in/gustavo-moreno-8a925b26a)  
+🔗 **Acesse o Dashboard Aqui:** [Dashboard Power BI](https://app.powerbi.com/view?r=eyJrIjoiM2FlZTU5NzMtNmQxZS00NDQyLTg2N2UtZGFhZGJlZDdiZGQ1IiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9)  
+
+---
+
 
 
