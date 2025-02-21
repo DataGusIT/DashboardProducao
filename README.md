@@ -2,7 +2,7 @@
 
 Bem-vindo ao **Dashboard de Produção**! 🚀 Este painel interativo fornece uma visão completa da performance produtiva, permitindo monitorar a eficiência e qualidade da produção em tempo real. Com ele, é possível identificar gargalos, tomar decisões estratégicas e otimizar os processos. 📊
 
-![Image](https://github.com/user-attachments/assets/3a9f07cb-bca7-47ed-9b5f-1ae9c43fb2aa)
+![Image](https://github.com/user-attachments/assets/80b85981-b876-4668-b817-6e7fbad4df93)
 
 ## 📌 Visão Geral
 Este dashboard foi desenvolvido no **Power BI** para oferecer insights essenciais sobre a produção, permitindo uma análise detalhada de indicadores importantes como:
