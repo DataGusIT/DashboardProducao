@@ -2,6 +2,7 @@
 
 Bem-vindo ao **Dashboard de Produção**! 🚀 Este painel interativo fornece uma visão completa da performance produtiva, permitindo monitorar a eficiência e qualidade da produção em tempo real. Com ele, é possível identificar gargalos, tomar decisões estratégicas e otimizar os processos. 📊
 
+## 📸 **Preview do Dashboard**
 ![Image](https://github.com/user-attachments/assets/80b85981-b876-4668-b817-6e7fbad4df93)
 
 ## 📌 Visão Geral
